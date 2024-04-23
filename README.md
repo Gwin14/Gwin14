@@ -4,6 +4,10 @@
 
 <p align="left">Estou cursando Análise e Desenvolvimento de Sistemas para criação de softwares. Minha principal stack é MERN, mas também possuo conhecimento em áreas como Python, Sass, Html, Css; além do que foi citado anteriormente: MongoDB, Express, React e NodeJs. Sou ótimo trabalhando em equipe, sou resiliente e possuo facilidade em achar diversas maneiras de resolver um problema. Anseio por novos aprendizados e experiências. Alguns os meus projetos incluem sites para produtividade, CRUD com MySQL e telas de login responsivas.</p>
 
+<a href="https://gwin14.github.io/Eu__Fabio-Dos-Santos/" target="_blank">
+MEU WEBSITE
+</a>
+
 ###
 
 <h2 align="center">Minha habilidades</h2>
